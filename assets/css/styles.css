@@ -1,0 +1,84 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    font-family: "Open Sans";
+}
+
+.logo-suricata {
+    width: 100px;
+}
+
+.navbar {
+    background-color: #e83e8c;
+}
+
+.nav-items {
+    position: absolute;
+    right: 10%;
+}
+
+.fs-05 {
+    font-size: 54px;
+}
+
+.fs-7 {
+    font-size: 14px;
+}
+
+.fs-8 {
+    font-size: 12px;
+}
+
+.fs-9 {
+    font-size: 10px;
+}
+
+#navlink1, #navlink2, #navlink3 {
+    color: #fff;
+}
+
+h1 {
+    color: #707070;
+    font-size: 48px;
+}
+
+.card {
+    width: 15rem;
+}
+
+.card-img-top {
+    height: 8rem;
+}
+
+.card-body {
+    text-align: start;
+}
+
+.card-text {
+    height: 2.5rem;
+    overflow: hidden;
+}
+
+.list-group-item {
+    height: 2rem;
+    text-align: start;
+    padding: 2px 0 0 1em;
+}
+
+a {
+    text-decoration: none;
+}
+
+.payment {
+    background-color: #17a2b8;
+}
+
+footer {
+    background-color: #e83e8c;
+}
+
+.logo-footer {
+    width: 2.5rem;
+}
